@@ -23,7 +23,7 @@ El ecosistema de **ArgentumGo** se divide en varios frentes:
 *   [**Shared**](https://github.com): Definiciones de protocolos para comunicación fluida.
 
 ## 🤝 Unite a la Legión
-Este es un proyecto **por y para la comunidad**. No importa si sos un programador experto en Go, un desarrollador de Flutter, un artista de pixel-art o un apasionado del balance: ¡hay un lugar para vos en Ullathos!
+Este es un proyecto **por y para la comunidad**. No importa si sos un programador experto en Go, un desarrollador de Flutter, un artista de pixel-art o un apasionado del balance: ¡hay un lugar para vos en Ullathorpe!
 
 1. **Explorá** los repositorios.
 2. **Reportá** bugs o sugerí mejoras en los Issues.
